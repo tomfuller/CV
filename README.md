@@ -2,7 +2,7 @@
 
   [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Job history](#job-history) | [Hobbies](#hobbies)
 
-## ME
+## Me
 I am a Makers Academy **Full Stack Junior Developer** with a preference toward back-end development.  
 
 I am passionate about writing code that follows SOLID principles and so is clean, tested and reusable. Having recently completed the intensive 12 weeks of [Makers Academy](http://www.makersacademy.com/), I have progressed from an interested amateur coder into a confident and enthusiastic junior developer. I build great relationships with colleagues and I am always available to help when needed.
