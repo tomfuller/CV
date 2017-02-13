@@ -2,7 +2,7 @@
 
   [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Job history](#job-history) | [Hobbies](#hobbies)
 
-#### ME.
+#### ME
 I am a Makers Academy **Full Stack Junior Developer** with a preference toward back-end development.  
 
 I am passionate about writing code that follows SOLID principles and so is clean, tested and reusable. Having recently completed the intensive 12 weeks of [Makers Academy](http://www.makersacademy.com/), I have progressed from an interested amateur coder into a confident and enthusiastic junior developer. I build great relationships with colleagues and I am always available to help when needed.
@@ -19,11 +19,11 @@ During our final project we built a game, we all had lots of ideas about feature
 I was part of a team that was building an Air BnB clone during which we had to fix several large bugs in our code. We paired everyday. At my suggestion we implemented a system where if we were stuck on a bug for more than half an hour we would switch with the other pair, giving them half an hour to try and solve it before switching back. This meant our code constantly had a fresh set of eyes on it, making bugs quicker to fix and the code cleaner.
 
 
-#### Fast Learner.
+#### Fast Learner
 I love learning new technologies, while at Makers Academy I gained the ability and the confidence to teach myself pretty much anything. For the final project our group chose to use technologies that we had never used before, this meant learning enough C# and Unity to build a game in two weeks.
 
 
-#### Adaptability.
+#### Adaptability
 I have always enjoyed new opportunities and challenges especially when I am outside of my comfort zone. When I was 18, I spent 3 months living in China teaching English at a school there. Having never left Europe, travelled by myself or taught before, the experience was incredible and equipped me to deal with a lot of challenges I have faced since.
 
 ## Projects
