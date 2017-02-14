@@ -50,7 +50,7 @@ I have always enjoyed new opportunities and challenges especially when I am outs
 
 #### Swansea University (Sep 2014 to June 2016)
 
-- BA War and Society (*Unfinished*)
+- BA War and Society (*Part-complete*)
 
 
 #### Esher College (Sep 2011 to July 2013)
