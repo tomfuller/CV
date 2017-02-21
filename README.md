@@ -33,7 +33,7 @@ I have always enjoyed new opportunities and challenges especially when I am outs
 | Airport Challenge | Ruby  | Week 1, written in two days | [![GitHub Repo](./Octocat.png)](https://github.com/tomfuller/airport_challenge) |
 | Takeaway challenge  | Ruby, Twilio API  | Week 2, written in two days  | [![GitHub Repo](./Octocat.png)](https://github.com/tomfuller/takeaway-challenge) |
 | Tic-tac-toe tech test | Ruby  | Week 10, written in one day | [![GitHub Repo](./Octocat.png)](https://github.com/tomfuller/tic_tac_toe_tech_test) |
-| Theresa Mayhem  | Unity, MakeHuman, C#  | Weeks 11 & 12, built in 10 days |
+| Theresa Mayhem  | Unity, MakeHuman, C#  | Weeks 11 & 12, built in 10 days | [![YouTube](./YouTube.png)](https://www.youtube.com/watch?v=fXltxe3YodM&index=1&list=PLc4BYny7PXeQ-DVKwBOrsC3MfCJfJG87O)
 
 ## Education
 
